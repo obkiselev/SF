@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="34f9a213-3944-448e-972a-4270d7c82fcc" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ProjectId" id="1ZvkJANi6xaGEEjGHj4TINGJHhJ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager" selected="Python tests.AntiSpamTest">
+    <configuration name="AntiSpamService" type="PythonConfigurationType" factoryName="Python">
+      <module name="classifier" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="FLASK_APP" value="run.py" />
+      </envs>
+      <option name="SDK_HOME" value="C:\Users\OKiselev\Miniconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/Miniconda3/Scripts/flask.exe" />
+      <option name="PARAMETERS" value="run" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="AntiSpamTest" type="tests" factoryName="Unittests">
+      <module name="classifier" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="C:\Users\OKiselev\Miniconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="_new_pattern" value="&quot;test_*.py&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/../unittest&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.AntiSpamService" />
+      <item itemvalue="Python tests.AntiSpamTest" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="34f9a213-3944-448e-972a-4270d7c82fcc" name="Default Changelist" comment="" />
+      <created>1585726880609</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585726880609</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="0" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585730850035">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="0" y="44" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1600.860@0.0.1600.860" timestamp="1585730850035" />
+    <state x="80" y="157" key="#com.intellij.ide.macro.MacrosDialog" timestamp="1585729033112">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="80" y="157" key="#com.intellij.ide.macro.MacrosDialog/0.0.1600.860@0.0.1600.860" timestamp="1585729033112" />
+    <state x="28" y="286" key="EnvironmentVariablesDialog" timestamp="1585729202603">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="28" y="286" key="EnvironmentVariablesDialog/0.0.1600.860@0.0.1600.860" timestamp="1585729202603" />
+    <state x="323" y="210" key="FileChooserDialogImpl" timestamp="1585730788386">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state x="323" y="210" key="FileChooserDialogImpl/0.0.1600.860@0.0.1600.860" timestamp="1585730788386" />
+    <state width="1579" height="356" key="GridCell.Tab.0.bottom" timestamp="1585848406565">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="356" key="GridCell.Tab.0.bottom/0.0.1600.860@0.0.1600.860" timestamp="1585848406565" />
+    <state width="1579" height="356" key="GridCell.Tab.0.center" timestamp="1585848406565">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="356" key="GridCell.Tab.0.center/0.0.1600.860@0.0.1600.860" timestamp="1585848406565" />
+    <state width="1579" height="356" key="GridCell.Tab.0.left" timestamp="1585848406564">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="356" key="GridCell.Tab.0.left/0.0.1600.860@0.0.1600.860" timestamp="1585848406564" />
+    <state width="1579" height="356" key="GridCell.Tab.0.right" timestamp="1585848406565">
+      <screen x="0" y="0" width="1600" height="860" />
+    </state>
+    <state width="1579" height="356" key="GridCell.Tab.0.right/0.0.1600.860@0.0.1600.860" timestamp="1585848406565" />
+  </component>
+</project>

@@ -1,0 +1,4 @@
+http://bazhenov.me/blog/2012/06/11/naive-bayes.html
+Практический урок - https://www.youtube.com/watch?v=Tyw67afZ1xw&feature=youtu.be
+
+https://detectingspam.herokuapp.com/
