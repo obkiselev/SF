@@ -1,0 +1,21 @@
+Restaurant_id 	— идентификационный номер ресторана;
+City 		— город, в котором находится ресторан;
+Cuisine Style 	— стиль или стили, к которым можно отнести блюда, предлагаемые в ресторане;
+Ranking 	— место, которое занимает данный ресторан среди всех ресторанов своего города;
+Rating 		— рейтинг ресторана по данным TripAdvisor (именно это значение должна будет предсказывать модель);
+Price Range 	— диапазон цен в ресторане;
+Number of Reviews — количество отзывов о ресторане;
+Reviews 	— данные о двух отзывах, которые отображаются на сайте ресторана;
+URL_TA 		— URL страницы ресторана на TripAdvosor;
+ID_TA 		— идентификатор ресторана в базе данных TripAdvisor.
+
+Restaurant_id        40000 non-null object
+City                 40000 non-null object
+Cuisine Style        30717 non-null object
+Ranking              40000 non-null float64
+Rating               40000 non-null float64
+Price Range          26114 non-null object
+Number of Reviews    37457 non-null float64
+Reviews              40000 non-null object
+URL_TA               40000 non-null object
+ID_TA                40000 non-null object
